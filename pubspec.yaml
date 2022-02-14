@@ -1,7 +1,7 @@
 name: custom_alert_dialog_package
-description: Flutter Package
+description: To Show Alert Dialog
 version: 0.0.1
-homepage:
+homepage: https://github.com/richieoscar/custom_alert_dialog_package
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
